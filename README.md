@@ -1,6 +1,6 @@
 # Welcome to my Data Playground! 🏌
 ## About Me 🇰🇪
-I'm an Accounts Assistant turned Data Enthusiast (keenly) interested in turning raw data into clear actionable insights. My work focuses on the full data pipeline; from cleaning to exploration to visualization and reporting. 
+I'm an Accounts Assistant turned Data Enthusiast (keenly) interested in turning raw data into clear actionable insights. My interests are in mastering the full data pipeline; from cleaning to exploration to visualization and reporting. 
 
 ## My Arsenal - pun intended! (tools and languages) 🔑
 **Languages** - R, SQL
